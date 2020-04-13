@@ -6,6 +6,10 @@ Manchmal improvisiere ich auch, und wenn's gelingt, wird das Gericht häufiger g
 
 Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Gerichten und Kuchen, und kombiniere neu.
 
-# Süßes
+## Süßes
 
 * [CCC aka Cashew Caramel Cake](src/cashew-caramel-cake.md)
+
+## Deftiges
+
+* [Rindfleisch in Knoblauchbutter mit Sojasoße](src/rindfleisch-knoblauch-sojasausse.md)
