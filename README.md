@@ -19,3 +19,4 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Kalter Hund](https://www.kochbar.de/rezept/292973/Kalter-Hund.html), mach ich mit doppelter Menge Schoko-Maße
 * [Churros](https://www.chefkoch.de/rezepte/3302051490391792/Churros.html), mit zwei Eiern statt drei
 * [Pizzateig](https://www.chefkoch.de/rezepte/716331174378295/Italienischer-Pizzateig.html), ohne ihn warm stehen zu lassen. Und mit Dinkel- statt Weizenmehl.
+* [Brötchen](https://www.chefkoch.de/rezepte/982211203676905/Verbessertes-Broetchen-oder-Baguette-Rezept.html), mit Dinkelmehl + ca. 10g Butter
