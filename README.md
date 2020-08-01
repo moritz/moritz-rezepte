@@ -20,3 +20,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Churros](https://www.chefkoch.de/rezepte/3302051490391792/Churros.html), mit zwei Eiern statt drei
 * [Pizzateig](https://www.chefkoch.de/rezepte/716331174378295/Italienischer-Pizzateig.html), ohne ihn warm stehen zu lassen. Und mit Dinkel- statt Weizenmehl.
 * [Brötchen](https://www.chefkoch.de/rezepte/982211203676905/Verbessertes-Broetchen-oder-Baguette-Rezept.html), mit Dinkelmehl + ca. 10g Butter
+* [Macarons](https://www.chefkoch.de/rezepte/2540451397844968/Schokoladen-Macarons-mit-Ganache.html):
+    * Teig extrem klebrig
+    * viel Abstand auf dem Blech lassen; im Nachhinein auseinanderschneiden kaum möglich
+    * Ich habe die Ganache mit 150g Nougat gemacht; war recht flüssig
