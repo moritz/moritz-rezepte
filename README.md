@@ -24,3 +24,6 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
     * Teig extrem klebrig
     * viel Abstand auf dem Blech lassen; im Nachhinein auseinanderschneiden kaum möglich
     * Ich habe die Ganache mit 150g Nougat gemacht; war recht flüssig
+    * Zum Auftragen der Ganache braucht man keinen Spritzbeutel, Tee-Löffel + Messer zum Verstreichen reicht
+    * Es blieb recht viel Ganache übrig (nächstes Mal mehr Teig?)
+* [Schokoladensoufflee](https://www.chefkoch.de/rezepte/1116671217775800/Schokosoufflee-medium.html)
