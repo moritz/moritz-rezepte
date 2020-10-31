@@ -27,3 +27,5 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
     * Zum Auftragen der Ganache braucht man keinen Spritzbeutel, Tee-Löffel + Messer zum Verstreichen reicht
     * Es blieb recht viel Ganache übrig (nächstes Mal mehr Teig?)
 * [Schokoladensoufflee](https://www.chefkoch.de/rezepte/1116671217775800/Schokosoufflee-medium.html)
+* [Bolognese nach Marcella Hazan](https://www.theguardian.com/food/2020/sep/28/marcella-hazans-bolognese-meat-sauce)
+* [Möhren-Sahne-Hack](https://www.chefkoch.de/rezepte/2464511388214153/Moehren-Sahne-Hack.html?portionen=2)
