@@ -35,6 +35,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Brötchen](https://www.chefkoch.de/rezepte/982211203676905/Verbessertes-Broetchen-oder-Baguette-Rezept.html), mit Dinkelmehl + ca. 10g Butter
 * [Bolognese nach Marcella Hazan](https://www.theguardian.com/food/2020/sep/28/marcella-hazans-bolognese-meat-sauce)
 * [Möhren-Sahne-Hack](https://www.chefkoch.de/rezepte/2464511388214153/Moehren-Sahne-Hack.html?portionen=2)
+* [Maronen im Speckmantel](https://www.chefkoch.de/rezepte/1605921267786008/Maronen-im-Speckmantel.html)
 
 # Ausprobieren
 
