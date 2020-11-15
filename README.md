@@ -29,3 +29,8 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Schokoladensoufflee](https://www.chefkoch.de/rezepte/1116671217775800/Schokosoufflee-medium.html)
 * [Bolognese nach Marcella Hazan](https://www.theguardian.com/food/2020/sep/28/marcella-hazans-bolognese-meat-sauce)
 * [Möhren-Sahne-Hack](https://www.chefkoch.de/rezepte/2464511388214153/Moehren-Sahne-Hack.html?portionen=2)
+* [Pekanuss-Streifen](https://www.chefkoch.de/rezepte/261171101893484/Pekannuss-Streifen.html), mit einer Mischung aus Pekanüssen, Walnüssen, Mandeln und Cashews.
+
+# Ausprobieren
+
+* [Peanøttkarameller](https://www.nrk.no/mat/peanottkarameller-1.10849033)
