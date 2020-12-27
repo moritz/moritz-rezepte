@@ -38,6 +38,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Maronen im Speckmantel](https://www.chefkoch.de/rezepte/1605921267786008/Maronen-im-Speckmantel.html)
 * [Gebratener Reis mit Hühnerfleisch](https://www.chefkoch.de/rezepte/720141174739469/Gebratener-Reis-mit-Huehnchen.html)
 * [Rinderbraten](https://www.chefkoch.de/rezepte/2277101363269708/Omis-Rinderbraten-mit-Rotweinsosse.html)
+* [Entenbrust in Sesam-Honig-Kruste](https://www.chefkoch.de/rezepte/795171183100269/Entenbrust-in-Sesam-Honig-Kruste.html)
 
 # Ausprobieren
 
