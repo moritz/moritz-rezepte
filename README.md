@@ -39,6 +39,8 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Gebratener Reis mit Hühnerfleisch](https://www.chefkoch.de/rezepte/720141174739469/Gebratener-Reis-mit-Huehnchen.html)
 * [Rinderbraten](https://www.chefkoch.de/rezepte/2277101363269708/Omis-Rinderbraten-mit-Rotweinsosse.html)
 * [Entenbrust in Sesam-Honig-Kruste](https://www.chefkoch.de/rezepte/795171183100269/Entenbrust-in-Sesam-Honig-Kruste.html)
+* [Schweinelende in Blätterteig](https://www.chefkoch.de/rezepte/1337431238584390/Schweinelende-in-Blaetterteig.html) (ohne Pilze)
+* [Putengyros](https://emmikochteinfach.de/einfache-puten-gyros-pfanne-wie-beim-griechen/#wprm-recipe-container-11515)
 
 # Ausprobieren
 
