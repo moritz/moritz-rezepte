@@ -19,6 +19,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 ## Süßes
 
 * [Kalter Hund](https://www.kochbar.de/rezept/292973/Kalter-Hund.html), mach ich mit doppelter Menge Schoko-Maße
+* [Krapfen](https://www.chefkoch.de/rezepte/739601176553983/Krapfen.html)
 * [Churros](https://www.chefkoch.de/rezepte/3302051490391792/Churros.html), mit zwei Eiern statt drei
 * [Macarons](https://www.chefkoch.de/rezepte/2540451397844968/Schokoladen-Macarons-mit-Ganache.html):
     * Teig extrem klebrig
