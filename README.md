@@ -29,6 +29,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
     * Es blieb recht viel Ganache übrig (nächstes Mal mehr Teig?)
 * [Schokoladensoufflee](https://www.chefkoch.de/rezepte/1116671217775800/Schokosoufflee-medium.html)
 * [Pekanuss-Streifen](https://www.chefkoch.de/rezepte/261171101893484/Pekannuss-Streifen.html), mit einer Mischung aus Pekanüssen, Walnüssen, Mandeln und Cashews.
+* [Karmellpudding](https://www.kuechengoetter.de/rezepte/karamellpudding-27703), mit 200ml Sahne statt Milch
 
 ## Deftiges
 
