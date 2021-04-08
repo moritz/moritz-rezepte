@@ -44,6 +44,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Entenbrust in Sesam-Honig-Kruste](https://www.chefkoch.de/rezepte/795171183100269/Entenbrust-in-Sesam-Honig-Kruste.html)
 * [Schweinelende in Blätterteig](https://www.chefkoch.de/rezepte/1337431238584390/Schweinelende-in-Blaetterteig.html) (ohne Pilze)
 * [Putengyros](https://emmikochteinfach.de/einfache-puten-gyros-pfanne-wie-beim-griechen/#wprm-recipe-container-11515)
+* [Süßkartoffelpuffer](https://www.lecker.de/suesskartoffelpuffer-selber-machen-so-gehts-71597.html)
 
 # Ausprobieren
 
