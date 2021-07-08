@@ -31,6 +31,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Pekanuss-Streifen](https://www.chefkoch.de/rezepte/261171101893484/Pekannuss-Streifen.html), mit einer Mischung aus Pekanüssen, Walnüssen, Mandeln und Cashews.
 * [Karmellpudding](https://www.kuechengoetter.de/rezepte/karamellpudding-27703), mit 200ml Sahne statt Milch
 * [Biennstich](https://www.chefkoch.de/rezepte/420331132679335/Ultimativer-Bienenstich.html) mit nur 500ml Sahne für die Füllung; das nächste mal weniger Zucker in die Füllung (50g?)
+* [Rhabarber Crumble](https://www.chefkoch.de/rezepte/2093341337948044/Rhabarber-Crumble.html?portionen=0.5)
 
 ## Deftiges
 
@@ -44,7 +45,10 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Entenbrust in Sesam-Honig-Kruste](https://www.chefkoch.de/rezepte/795171183100269/Entenbrust-in-Sesam-Honig-Kruste.html)
 * [Schweinelende in Blätterteig](https://www.chefkoch.de/rezepte/1337431238584390/Schweinelende-in-Blaetterteig.html) (ohne Pilze)
 * [Putengyros](https://emmikochteinfach.de/einfache-puten-gyros-pfanne-wie-beim-griechen/#wprm-recipe-container-11515)
-* [Süßkartoffelpuffer](https://www.lecker.de/suesskartoffelpuffer-selber-machen-so-gehts-71597.html)
+* [Süßkartoffelpuffer](https://www.lecker.de/suesskartoffelpuffer-selber-machen-so-gehts-71597.html) gerne noch mit Käse auf einer Seite
+* [Butter Chicken Indisch](https://www.thomas-kocht.de/rezepte/butter-chicken-koestliches-indisches-curry/)
+* [Süßkartoffel-Auflauf](https://www.chefkoch.de/rezepte/967351202391813/Suesskartoffel-Auflauf-mit-Hackfleisch.html), beim nächsten Mal mehrere Käse-Schichten.
+
 
 # Ausprobieren
 
