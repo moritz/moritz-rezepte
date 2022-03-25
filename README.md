@@ -13,6 +13,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 ## Deftiges
 
 * [Rindfleisch in Knoblauchbutter mit Sojasoße](src/rindfleisch-knoblauch-sojasausse.md)
+* [Möhren-Sahne-Hack, mit Walnüssen](src/moehren-sahne-hack.md)
 
 # Rezepte von Anderen
 
@@ -39,14 +40,13 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Pizzateig](https://www.chefkoch.de/rezepte/716331174378295/Italienischer-Pizzateig.html), ohne ihn warm stehen zu lassen. Und mit Dinkel- statt Weizenmehl.
 * [Brötchen](https://www.chefkoch.de/rezepte/982211203676905/Verbessertes-Broetchen-oder-Baguette-Rezept.html), mit Dinkelmehl + ca. 10g Butter
 * [Bolognese nach Marcella Hazan](https://www.theguardian.com/food/2020/sep/28/marcella-hazans-bolognese-meat-sauce)
-* [Möhren-Sahne-Hack](https://www.chefkoch.de/rezepte/2464511388214153/Moehren-Sahne-Hack.html?portionen=2), mit gehackten Walnüssen am Ende dazu.
 * [Maronen im Speckmantel](https://www.chefkoch.de/rezepte/1605921267786008/Maronen-im-Speckmantel.html)
 * [Gebratener Reis mit Hühnerfleisch](https://www.chefkoch.de/rezepte/720141174739469/Gebratener-Reis-mit-Huehnchen.html)
 * [Rinderbraten](https://www.chefkoch.de/rezepte/2277101363269708/Omis-Rinderbraten-mit-Rotweinsosse.html)
 * [Entenbrust in Sesam-Honig-Kruste](https://www.chefkoch.de/rezepte/795171183100269/Entenbrust-in-Sesam-Honig-Kruste.html)
 * [Schweinelende in Blätterteig](https://www.chefkoch.de/rezepte/1337431238584390/Schweinelende-in-Blaetterteig.html) (ohne Pilze)
 * [Putengyros](https://emmikochteinfach.de/einfache-puten-gyros-pfanne-wie-beim-griechen/#wprm-recipe-container-11515)
-* [Süßkartoffelpuffer](https://www.lecker.de/suesskartoffelpuffer-selber-machen-so-gehts-71597.html) gerne noch mit Käse auf einer Seite
+* [Süßkartoffelpuffer](https://www.lecker.de/suesskartoffelpuffer-selber-machen-so-gehts-71597.html) gerne noch mit Käse auf einer Seite, geht auch ohne Ei.
 * [Butter Chicken Indisch](https://www.thomas-kocht.de/rezepte/butter-chicken-koestliches-indisches-curry/)
 * [Süßkartoffel-Auflauf](https://www.chefkoch.de/rezepte/967351202391813/Suesskartoffel-Auflauf-mit-Hackfleisch.html), beim nächsten Mal mehrere Käse-Schichten.
 
