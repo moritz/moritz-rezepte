@@ -34,6 +34,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Biennstich](https://www.chefkoch.de/rezepte/420331132679335/Ultimativer-Bienenstich.html) mit nur 500ml Sahne für die Füllung; das nächste mal weniger Zucker in die Füllung (50g?)
 * [Rhabarber Crumble](https://www.chefkoch.de/rezepte/2093341337948044/Rhabarber-Crumble.html?portionen=0.5)
 * [Apfel-Streuselkuchen](https://www.backenmachtgluecklich.de/rezepte/apfel-streusel-kuchen.html), Hauptaufwand ist Äpfel schälen/schneiden.
+* [Erdbeere-Tiramisu](https://www.chefkoch.de/rezepte/1269211232115287/Erdbeer-Tiramisu.html), nur die Hälfte des Zuckers benutzen, Erdbeeren nicht pürieren, unterste Schicht Löffelbiscuit.
 
 ## Deftiges
 
