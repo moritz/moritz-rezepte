@@ -35,6 +35,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Rhabarber Crumble](https://www.chefkoch.de/rezepte/2093341337948044/Rhabarber-Crumble.html?portionen=0.5)
 * [Apfel-Streuselkuchen](https://www.backenmachtgluecklich.de/rezepte/apfel-streusel-kuchen.html), Hauptaufwand ist Äpfel schälen/schneiden.
 * [Erdbeere-Tiramisu](https://www.chefkoch.de/rezepte/1269211232115287/Erdbeer-Tiramisu.html), nur die Hälfte des Zuckers benutzen, Erdbeeren nicht pürieren, unterste Schicht Löffelbiscuit.
+* [Kirsch Trifle](https://www.essen-und-trinken.de/rezepte/58305-rzpt-kirsch-trifle)
 
 ## Deftiges
 
