@@ -51,9 +51,10 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Süßkartoffelpuffer](https://www.lecker.de/suesskartoffelpuffer-selber-machen-so-gehts-71597.html) gerne noch mit Käse auf einer Seite, geht auch ohne Ei.
 * [Butter Chicken Indisch](https://www.thomas-kocht.de/rezepte/butter-chicken-koestliches-indisches-curry/)
 * [Süßkartoffel-Auflauf](https://www.chefkoch.de/rezepte/967351202391813/Suesskartoffel-Auflauf-mit-Hackfleisch.html), beim nächsten Mal mehrere Käse-Schichten.
-* [Embpandas](https://latin-mag.com/argentinische-empanadas-original-rezept-der-hackfleisch-taschen/) (zumindest der Teig; Füllung eher free-style)
+* [Empandas](https://latin-mag.com/argentinische-empanadas-original-rezept-der-hackfleisch-taschen/) (zumindest der Teig; Füllung eher free-style)
 
 
 # Ausprobieren
 
 * [Peanøttkarameller](https://www.nrk.no/mat/peanottkarameller-1.10849033)
+* [Beim nächste mal Eigelbe verarbeiten: Parfait](https://www.backenmachtgluecklich.de/rezepte/parfait-grundrezept.html)
