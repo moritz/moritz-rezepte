@@ -28,6 +28,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
     * Ich habe die Ganache mit 150g Nougat gemacht; war recht flüssig
     * Zum Auftragen der Ganache braucht man keinen Spritzbeutel, Tee-Löffel + Messer zum Verstreichen reicht
     * Es blieb recht viel Ganache übrig (nächstes Mal mehr Teig?)
+    * Eher 13 Minuten bei 145°C backen, **kein** Silikon-Backpapier benutzen.
 * [Schokoladensoufflee](https://www.chefkoch.de/rezepte/1116671217775800/Schokosoufflee-medium.html)
 * [Pekanuss-Streifen](https://www.chefkoch.de/rezepte/261171101893484/Pekannuss-Streifen.html), mit einer Mischung aus Pekanüssen, Walnüssen, Mandeln und Cashews.
 * [Karmellpudding](https://www.kuechengoetter.de/rezepte/karamellpudding-27703), mit 200ml Sahne statt Milch
@@ -36,6 +37,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Apfel-Streuselkuchen](https://www.backenmachtgluecklich.de/rezepte/apfel-streusel-kuchen.html), Hauptaufwand ist Äpfel schälen/schneiden.
 * [Erdbeere-Tiramisu](https://www.chefkoch.de/rezepte/1269211232115287/Erdbeer-Tiramisu.html), nur die Hälfte des Zuckers benutzen, Erdbeeren nicht pürieren, unterste Schicht Löffelbiscuit.
 * [Kirsch Trifle](https://www.essen-und-trinken.de/rezepte/58305-rzpt-kirsch-trifle)
+* [Zwetschgendatschi](https://www.lecker.de/zwetschgendatschi-25367.html)
 
 ## Deftiges
 
