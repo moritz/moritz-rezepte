@@ -42,7 +42,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 ## Deftiges
 
 * [Pizzateig](https://www.chefkoch.de/rezepte/716331174378295/Italienischer-Pizzateig.html), ohne ihn warm stehen zu lassen. Und mit Dinkel- statt Weizenmehl.
-* [Brötchen](https://www.chefkoch.de/rezepte/982211203676905/Verbessertes-Broetchen-oder-Baguette-Rezept.html), mit Dinkelmehl + ca. 10g Butter
+* [Hamburger-Brötchen](https://www.einfachbacken.de/rezepte/burger-broetchen-so-einfach-selbstgemacht), mit ca. 12g Backmalz dazu
 * [Bolognese nach Marcella Hazan](https://www.theguardian.com/food/2020/sep/28/marcella-hazans-bolognese-meat-sauce)
 * [Maronen im Speckmantel](https://www.chefkoch.de/rezepte/1605921267786008/Maronen-im-Speckmantel.html)
 * [Gebratener Reis mit Hühnerfleisch](https://www.chefkoch.de/rezepte/720141174739469/Gebratener-Reis-mit-Huehnchen.html)
