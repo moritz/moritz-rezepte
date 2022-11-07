@@ -14,6 +14,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 
 * [Rindfleisch in Knoblauchbutter mit Sojasoße](src/rindfleisch-knoblauch-sojasausse.md)
 * [Möhren-Sahne-Hack, mit Walnüssen](src/moehren-sahne-hack.md)
+* [Hähnchen in Salbei-Sahne-Soße](src/haenchen-salbei-sahne.md)
 
 # Rezepte von Anderen
 
