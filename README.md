@@ -39,10 +39,12 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Erdbeere-Tiramisu](https://www.chefkoch.de/rezepte/1269211232115287/Erdbeer-Tiramisu.html), nur die Hälfte des Zuckers benutzen, Erdbeeren nicht pürieren, unterste Schicht Löffelbiscuit.
 * [Kirsch Trifle](https://www.essen-und-trinken.de/rezepte/58305-rzpt-kirsch-trifle)
 * [Zwetschgendatschi](https://www.lecker.de/zwetschgendatschi-25367.html)
+* [Buchteln](https://www.chefkoch.de/rezepte/2842301436274891/Gefuellte-Buchteln.html) mit [Vanillesoße](https://www.chefkoch.de/rezepte/769321179823550/Vanillesosse-selbstgemacht.html)
 
 ## Deftiges
 
 * [Pizzateig](https://www.chefkoch.de/rezepte/716331174378295/Italienischer-Pizzateig.html), ohne ihn warm stehen zu lassen. Und mit Dinkel- statt Weizenmehl.
+* [Nudelauflauf](https://www.chefkoch.de/rezepte/197781083682428/Schneller-Nudelauflauf.html)
 * [Hamburger-Brötchen](https://www.einfachbacken.de/rezepte/burger-broetchen-so-einfach-selbstgemacht), mit ca. 12g Backmalz dazu
 * [Bolognese nach Marcella Hazan](https://www.theguardian.com/food/2020/sep/28/marcella-hazans-bolognese-meat-sauce)
 * [Maronen im Speckmantel](https://www.chefkoch.de/rezepte/1605921267786008/Maronen-im-Speckmantel.html)
