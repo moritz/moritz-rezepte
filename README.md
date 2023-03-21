@@ -40,6 +40,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Kirsch Trifle](https://www.essen-und-trinken.de/rezepte/58305-rzpt-kirsch-trifle)
 * [Zwetschgendatschi](https://www.lecker.de/zwetschgendatschi-25367.html)
 * [Buchteln](https://www.chefkoch.de/rezepte/2842301436274891/Gefuellte-Buchteln.html) mit [Vanillesoße](https://www.chefkoch.de/rezepte/769321179823550/Vanillesosse-selbstgemacht.html)
+* [Lemonies](https://www.nrk.no/mat/lemonies-1.15240351), Zitronenkuchen-Stücke (Norwegisch)
 
 ## Deftiges
 
