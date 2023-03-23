@@ -9,6 +9,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 ## Süßes
 
 * [CCC aka Cashew Caramel Cake](src/cashew-caramel-cake.md)
+* [Karottenkuchen mit Zuckerguß](src/karottenkuchen.md)
 
 ## Deftiges
 
