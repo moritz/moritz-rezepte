@@ -46,7 +46,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 ## Deftiges
 
 * [Pizzateig](https://www.chefkoch.de/rezepte/716331174378295/Italienischer-Pizzateig.html), ohne ihn warm stehen zu lassen. Und mit Dinkel- statt Weizenmehl.
-* [Baguette](https://www.einfachbacken.de/rezepte/baguette-selber-backen-das-einfache-grundrezept?portions=3)
+* [Baguette](https://www.einfachbacken.de/rezepte/baguette-selber-backen-das-einfache-grundrezept?portions=3), mit etwas weniger Salz
 * [Nudelauflauf](https://www.chefkoch.de/rezepte/197781083682428/Schneller-Nudelauflauf.html)
 * [Hamburger-Brötchen](https://www.einfachbacken.de/rezepte/burger-broetchen-so-einfach-selbstgemacht), mit ca. 12g Backmalz dazu
 * [Bolognese nach Marcella Hazan](https://www.theguardian.com/food/2020/sep/28/marcella-hazans-bolognese-meat-sauce)
