@@ -46,6 +46,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 ## Deftiges
 
 * [Pizzateig](https://www.chefkoch.de/rezepte/716331174378295/Italienischer-Pizzateig.html), ohne ihn warm stehen zu lassen. Und mit Dinkel- statt Weizenmehl.
+* [Baguette](https://www.einfachbacken.de/rezepte/baguette-selber-backen-das-einfache-grundrezept?portions=3)
 * [Nudelauflauf](https://www.chefkoch.de/rezepte/197781083682428/Schneller-Nudelauflauf.html)
 * [Hamburger-Brötchen](https://www.einfachbacken.de/rezepte/burger-broetchen-so-einfach-selbstgemacht), mit ca. 12g Backmalz dazu
 * [Bolognese nach Marcella Hazan](https://www.theguardian.com/food/2020/sep/28/marcella-hazans-bolognese-meat-sauce)
@@ -64,4 +65,5 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 # Ausprobieren
 
 * [Peanøttkarameller](https://www.nrk.no/mat/peanottkarameller-1.10849033)
+* [Blood Orange Pudding Cake](https://www.youtube.com/watch?v=8xL64cq7Ds8)
 * [Beim nächste mal Eigelbe verarbeiten: Parfait](https://www.backenmachtgluecklich.de/rezepte/parfait-grundrezept.html)
