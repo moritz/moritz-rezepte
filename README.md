@@ -22,6 +22,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 ## Süßes
 
 * [Belgische Waffeln](https://backen.de/rezept/belgische-waffeln), das nächste mal mit mehr Zucker
+* [Chocolate Chip Cookies](https://www.chefkoch.de/rezepte/1461691251118999/Schoko-Cookies.html)
 * [Kaiserschmarrn](https://www.gutekueche.at/wiener-kaiserschmarrn-rezept-847)
 * [Kalter Hund](https://www.kochbar.de/rezept/292973/Kalter-Hund.html), mach ich mit doppelter Menge Schoko-Maße
 * [Krapfen](https://www.chefkoch.de/rezepte/739601176553983/Krapfen.html), im Backofen bei 175°C in Ölgefülltem Kuchenblech 5 Minuten je Seite gebacken. Beim letzten gehen lassen Mehl aufs Blech streuen, damit sich die Krapfen gut lösen lassen.
