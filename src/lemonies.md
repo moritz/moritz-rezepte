@@ -25,6 +25,8 @@ Die Zitronen auspressen, 4 EL des Safts in den Teig unterrühren.
 
 Ein Backblech mit Backpapier auskleiden und einfetten, dann den Teig dünn darauf verteilen (ca. 3-5mm dick). 20min bei 180°C backen, der Kuchen soll oben nur leicht bräunlich werden.
 
+## Glasur
+
 In einer großen Schüssel den Puderzucker mit einem Teil des restlichen Zitronensafts zu einer Glasur anrühren, solange vorsichtig Zitronensaft dazugeben, bis man eine dicke aber noch fließende Maße hat. Auf dem Kuchen verteilen und trocknen lassen.
 
 In Rechtecke schneiden, genießen, aufessen. Fertig.
