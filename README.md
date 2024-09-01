@@ -10,6 +10,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 
 * [CCC aka Cashew Caramel Cake](src/cashew-caramel-cake.md)
 * [Karottenkuchen mit Zuckerguß](src/karottenkuchen.md)
+* [Lemonies (flacher Zitronenkuchen)](src/lemonies.md)
 
 ## Deftiges
 
@@ -47,6 +48,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Zwetschgendatschi](https://www.lecker.de/zwetschgendatschi-25367.html)
 * [Buchteln](https://www.chefkoch.de/rezepte/2842301436274891/Gefuellte-Buchteln.html) mit [Vanillesoße](https://www.chefkoch.de/rezepte/769321179823550/Vanillesosse-selbstgemacht.html)
 * [Lemonies](https://www.nrk.no/mat/lemonies-1.15240351), Zitronenkuchen-Stücke (Norwegisch)
+* [Johannisbeer-Baiser-Kuchen](https://www.chefkoch.de/rezepte/2048521331457882/Johannisbeerbaiserkuchen.html)
 
 ## Deftiges
 
