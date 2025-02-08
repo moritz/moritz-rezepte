@@ -27,6 +27,6 @@ Ein Backblech mit Backpapier auskleiden und einfetten, dann den Teig dünn darau
 
 ## Glasur
 
-In einer großen Schüssel den Puderzucker mit einem Teil des restlichen Zitronensafts zu einer Glasur anrühren, solange vorsichtig Zitronensaft dazugeben, bis man eine dicke aber noch fließende Maße hat. Auf dem Kuchen verteilen und trocknen lassen.
+In einer großen Schüssel den Puderzucker mit einem Teil des restlichen Zitronensafts zu einer Glasur anrühren, solange vorsichtig Zitronensaft dazugeben, bis man eine dicke aber noch fließende Masse hat. Auf dem Kuchen verteilen und trocknen lassen.
 
 In Rechtecke schneiden, genießen, aufessen. Fertig.
