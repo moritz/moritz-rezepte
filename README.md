@@ -12,6 +12,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Karottenkuchen mit Zuckerguß](src/karottenkuchen.md)
 * [Lemonies (flacher Zitronenkuchen)](src/lemonies.md)
 * [Bratäpfel](src/bratapfel.md)
+* [Brownies](src/brownies.md)
 
 ## Deftiges
 
@@ -70,6 +71,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Butter Chicken Indisch](https://www.thomas-kocht.de/rezepte/butter-chicken-koestliches-indisches-curry/)
 * [Süßkartoffel-Auflauf](https://www.chefkoch.de/rezepte/967351202391813/Suesskartoffel-Auflauf-mit-Hackfleisch.html), beim nächsten Mal mehrere Käse-Schichten.
 * [Empandas](https://latin-mag.com/argentinische-empanadas-original-rezept-der-hackfleisch-taschen/) (zumindest der Teig; Füllung eher free-style)
+* [Gyoza](https://sallys-blog.de/rezepte/gyoza-gefuellte-teigtaschen-mit-haehnchen)
 
 
 # Ausprobieren
