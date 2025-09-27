@@ -53,6 +53,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Johannisbeer-Baiser-Kuchen](https://www.chefkoch.de/rezepte/2048521331457882/Johannisbeerbaiserkuchen.html)
 * [Erdbeertiramisu](https://www.chefkoch.de/rezepte/1033988711441/Erdbeer-Tiramisu.html?portionen=3), mit Orangensaft statt Likör. Zu Halloween von einer Packung Oreos die weiße Füllung abkratzen, die Kekse zerbröseln und damit das Tiramisu abdecken. Dann schokolierte Kekse als Grabsteine senkrecht reinstellen (Friedhof/Graberde)
 * [Schoko Cookies](https://www.chefkoch.de/rezepte/1461691251118999/Schoko-Cookies.html)
+* [Sticky Toffee Pudding](src/sticky-toffee-pudding.md)
 
 ## Deftiges
 
