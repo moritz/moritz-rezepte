@@ -4,6 +4,9 @@
 
 (ausprobiert Weihnachten 2025 und Januar 2026)
 
+Mit diesem Rezept gelingt das Blätterkrokant bei mir zuverlässig, allerdings
+entstehen keine regelmäßigen Blätter wie wenn er industrielle gefertigt wird. Das Mundgefühl stimmt aber.
+
 * Blech mit Backpapier vorbereiten, evtl. auf 50°C vorheizen
 * 300g Nougat in der Microwelle schmelzen (360W 2min 30s, dazwischen rühren)
 * In einem Topf 150g Zucker, 1 EL Glukosesyrup, 1 Prise Salz schmelzen
@@ -12,6 +15,8 @@
 * im Winter: Auf der Terasse auskühlen lassen
 * Wenn's abgekühlt ist: oberes Backpapier abziehen, in Streifen schneiden
 * Mit temperierter Schokolade überziehen
+
+# Historische Versuche
 
 ## Versuch 1: Karamell in Nougat
 
