@@ -13,6 +13,7 @@ Nichts davon ist bahnbrechend, meist hole ich mir Inspiration von bestehenden Ge
 * [Lemonies (flacher Zitronenkuchen)](src/lemonies.md)
 * [Bratäpfel](src/bratapfel.md)
 * [Brownies](src/brownies.md)
+* [Blätterkrokant](src/blaetterkrokant.md)
 
 ## Deftiges
 
